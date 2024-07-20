@@ -54,5 +54,9 @@
         "psr-4": {
             "React\\Tests\\Http\\": "tests/"
         }
+    },
+    "scripts": {
+        "phpstan": "vendor/bin/phpstan analyse src",
+        "phpstan tests": "vendor/bin/phpstan analyse tests"
     }
 }
