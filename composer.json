@@ -43,7 +43,7 @@
         "react/async": "^4 || ^3",
         "react/promise-stream": "^1.4",
         "react/promise-timer": "^1.9",
-        "phpstan/phpstan": "^1.11"
+        "phpstan/phpstan": "^1.4"
     },
     "autoload": {
         "psr-4": {
